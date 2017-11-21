@@ -4,8 +4,7 @@
 	while taking advantage of inheritance, encapsulation, 
 	polymorphism and the other OOP concepts.
     
-    *MobilePhone oop           --base model implements standard most phones should have. making use of inheritance, encapsulation, 
-								polymorphism and the other OOP concepts
+    *MobilePhone oop           --base model implements standard most phones should have. making use of inheritance, encapsulation, polymorphism and the other OOP concepts
    
 
 

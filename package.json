@@ -1,0 +1,23 @@
+{
+  "name": "learning-outcomes-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "word.js",
+  "scripts": {
+    "start": "",
+    "test": " mocha --require babel-register"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "taiwo sunday",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-register": "^6.26.0",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
+}
